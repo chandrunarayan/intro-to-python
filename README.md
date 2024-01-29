@@ -1,8 +1,7 @@
-# intro-to-python
+# intro-to-python reference for Bush School Computing course
 
 This repository contains the ```Learn Python with Jupyter``` notebooks created by ```Serena Bonaretti```.  These notebooks are published at her [Learn Python with Jupyter website](https://learnpythonwithjupyter.com). You can also download her fantastic and free book of the same title from [this location](https://learnpythonwithjupyter.com). I intend to use portions of her notebooks as reference for my students in the Computing class. My thanks to Serena for these excellent materials. Here is her introduction to the course content.
 
-```
 Learning a programming language is about learning a language. When learning a new language (such as French, Korean, etc.), we commonly learn two key components: a way of thinking–which is typically connected to a culture–and grammar–that is, how to arrange elements of speech (verbs, nouns, etc.) to create coherent sentences. Each aspect usually has a dedicated book. We study how to greet people, order a coffee, and ask for directions on the streets–that is, how to behave and think in that language–in course books. At the same time, we deepen and refine our grammar knowledge in grammar books, where chapters explain elements of speech providing detailed rules, list of exceptions, and short disjoint examples.
 
 Books to learn programming languages typically follow a grammar book format. Each chapter covers a different aspect of coding grammar (such as data structures, loops, etc.) with brief examples that frequently use mathematics. Finding course books that gradually teach to think in a coding language is rare.
@@ -11,4 +10,4 @@ Learn Python with Jupyter is intended as a course book to help develop computati
 
 The order of topics presented in Learn Python with Jupyter supports development of computational thinking by progressing from spoken language to abstract symbols and constructs. The very first chapters (1–5) introduce strings as English words, followed by lists of strings, if/else conditions, and basic methods for list manipulation. The following chapters (6–12) explain slicing as an abstract alternative to list methods and the for loop as an automatic way to slice list elements. These chapters mark the transition from concrete to abstract thinking, after which more complex topics are explained. The remaining chapters (13–38) introduce numbers, more coding syntax and constructs (e.g., while loop, dictionaries, functions, etc.), and typical aspects of coding, such as “divide and conquer”, “debugging”, etc.
 
-``````
+## [You may access the Jupyter Notebooks here](notebooks)
