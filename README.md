@@ -1,6 +1,6 @@
 # intro-to-python
 
-### This repository contains ```Learn Python with Jupyter``` notebooks created by ```Serena Bonaretti```.  I intend to use portions of her notebooks as reference for my students in the Computing class. Here is her introduction to the course content.
+This repository contains the ```Learn Python with Jupyter``` notebooks created by ```Serena Bonaretti```.  I intend to use portions of her notebooks as reference for my students in the Computing class. My thanks to Serena for these excellent materials. Here is her introduction to the course content.
 
 Learning a programming language is about learning a language. When learning a new language (such as French, Korean, etc.), we commonly learn two key components: a way of thinking–which is typically connected to a culture–and grammar–that is, how to arrange elements of speech (verbs, nouns, etc.) to create coherent sentences. Each aspect usually has a dedicated book. We study how to greet people, order a coffee, and ask for directions on the streets–that is, how to behave and think in that language–in course books. At the same time, we deepen and refine our grammar knowledge in grammar books, where chapters explain elements of speech providing detailed rules, list of exceptions, and short disjoint examples.
 
