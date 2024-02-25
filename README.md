@@ -9,3 +9,5 @@ This reference contains the ```Learn Python with Jupyter``` notebooks created by
 This book is prepared from the training notes of Anand Chitipothu.
 
 Anand conducts Python training classes on a semi-regular basis in Bangalore, India. Checkout out the [upcoming trainings](http://pipal.in/) if you are interested.
+
+## [You may access the Python Practice Book here](https://anandology.com/python-practice-book/)
